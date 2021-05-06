@@ -1,0 +1,2 @@
+To avoid updating the source path for the completed files,
+you can copy the DashboardData folder directly to your C Drive.

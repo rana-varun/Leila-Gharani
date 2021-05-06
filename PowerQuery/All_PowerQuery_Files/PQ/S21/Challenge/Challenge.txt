@@ -1,0 +1,10 @@
+This is your time to test your knowledge:
+
+1. Import the data from the Excel file "SourceData_CellNames.xlsx" (we need data from all tabs)
+
+2. Append the data into a single table
+
+3. Make sure the first column is for Company name.
+
+Hint: Company name will always be in the B column in front of the word "Company".
+Use this to figure out how to extract company name to its own column.
